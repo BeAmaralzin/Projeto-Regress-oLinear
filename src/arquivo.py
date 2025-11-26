@@ -3,7 +3,7 @@ from sklearn.linear_model import LinearRegression
 from dateutil.relativedelta import relativedelta
 import numpy as np
 import openpyxl
-import sys # Usado para parar o script em caso de erro
+import sys 
 import statsmodels.api as sm  # Nova biblioteca para o SARIMA
 
 #Configurações Iniciais
