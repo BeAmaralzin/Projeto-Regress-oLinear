@@ -1,19 +1,10 @@
 # Informações do Projeto de Extensão
-`TÍTULO DO PROJETO`:  
-
- `DISCIPLINA`: Fundamentos de Sistemas de Informação
-
-`CURSO`: Sistemas de Informação
-
-`SEMESTRE`: 2/2025
+`TÍTULO DO PROJETO`:  Projeto Regrssão Linear
 
 ## Participantes
 
 Os membros do grupo são: 
-- Fulano da Silva
-- Ciclano Albuquerque
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
+- Bernardo Amarl
 
 # Estrutura do Projeto
 
